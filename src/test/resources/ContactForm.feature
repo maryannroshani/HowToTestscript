@@ -1,21 +1,21 @@
-Feature: Check the page Headings
-
-Scenario: Check page title for adoption page
-    Given I am on the zoo website
-    When I click the link "adoption_link"
-    Then I check page title is "Adoption"
-    And I close the browser
-
-    Given I am on the zoo website
-    When I click the link "about_link"
-    Then I check page title is "About"
-    And I close the browser
-
-    Given I am on the zoo website
-    When I click the link "contact_link"
-    Then I check page title is "Contact"
-    And I close the browser
-
+#Feature: Check the page Headings
+#
+#Scenario: Check page title for adoption page
+#    Given I am on the zoo website
+#    When I click the link "adoption_link"
+#    Then I check page title is "Adoption"
+#    And I close the browser
+#
+#    Given I am on the zoo website
+#    When I click the link "about_link"
+#    Then I check page title is "About"
+#    And I close the browser
+#
+#    Given I am on the zoo website
+#    When I click the link "contact_link"
+#    Then I check page title is "Contact"
+#    And I close the browser
+#
 
 
 #
